@@ -53,5 +53,5 @@ Android-приложение для ведения учета ремонтных
 ---
 
 ### 📫 Контакты
-* **Telegram:** [@N30N41Kz](https://t.me/твой_ник)
+* **Telegram:** [@N30N41Kz](https://t.me/N30N41Kz)
 * **Email:** [zya190112@gmail.com](mailto:zya190112@gmail.com)
